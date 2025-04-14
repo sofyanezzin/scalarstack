@@ -1,0 +1,8 @@
+numpy
+sympy
+matplotlib
+plotly
+tk
+pytz
+qiskit
+

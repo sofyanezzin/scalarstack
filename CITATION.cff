@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Scalar Resonance and Harmonic Emergence
+message: "If you use this codebase in your research, please cite it as below."
+authors:
+  - family-names: Huckstead
+    given-names: Jeffery Lyn
+    name: Jeffery Lyn Huckstead
+    orcid: https://orcid.org/0009-0007-0234-2177
+    email: cerebralgraphix@gmail.com
+    affiliation: Independent Researcher
+date-released: 2025-04-14
+version: 1.0.0
+doi: 10.5281/zenodo.15190868
+repository-code: https://github.com/jhuckstead83/scalarstack
+license: MIT
+
